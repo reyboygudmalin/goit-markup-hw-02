@@ -24,3 +24,6 @@ body {
 .logo-studio {
 color: var(--logocolor);
 }
+.list {
+    list-style: none;
+}
