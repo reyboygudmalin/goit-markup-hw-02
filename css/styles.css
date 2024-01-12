@@ -4,6 +4,8 @@
     --linkcolor:#404bbf;
     --addlinkcolor:#434455;
     --buttoncolor:#4D5AE5;
+    --sectioncolor:#F4F4FD;
+
 
 
 }
@@ -112,6 +114,34 @@ color: var(--linkcolor);
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--logocolor);
-    
-    
+}
+.fourth_section {
+    background-color: var(--sectioncolor);
+
+}
+.fourth_header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--logocolor);
+
+}
+.fourth_list {
+    background-color: var(--white);
+
+}
+.fourt_list_header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--logocolor);
+}
+.fourth_list_paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--addlinkcolor);
 }
