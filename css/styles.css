@@ -60,3 +60,17 @@ color: var(--linkcolor);
 .addlink:focus{
     color: var(--linkcolor);
 }
+.hero {
+    background-color: var(--logocolor);
+
+}
+.hero_header {
+    font-size: 56px;
+    line-height:1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--white);
+    
+
+
+}
