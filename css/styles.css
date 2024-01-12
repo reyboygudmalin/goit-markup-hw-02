@@ -3,6 +3,8 @@
     --logocolor:#2e2f42;
     --linkcolor:#404bbf;
     --addlinkcolor:#434455;
+    --buttoncolor:#4D5AE5;
+
 
 }
 body {
@@ -70,7 +72,20 @@ color: var(--linkcolor);
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white);
-    
 
 
+
+}
+.header_button {
+    background-color:var(--buttoncolor);
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--white);
+
+}
+.header_button:hover {
+    background-color: var(--linkcolor);
 }
