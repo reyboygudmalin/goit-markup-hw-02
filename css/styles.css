@@ -149,3 +149,12 @@ color: var(--linkcolor);
     background-color: var(--logocolor);
 
 }
+.logo_span {
+    color: var(--sectioncolor);
+
+}
+.footer_paragraph {
+    line-height: 1.5;
+    color: var(--sectioncolor);
+    letter-spacing: 0.02em;
+}
