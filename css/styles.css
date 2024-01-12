@@ -145,3 +145,7 @@ color: var(--linkcolor);
     letter-spacing: 0.02em;
     color: var(--addlinkcolor);
 }
+.footer {
+    background-color: var(--logocolor);
+    
+}
