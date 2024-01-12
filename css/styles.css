@@ -48,7 +48,7 @@ color: var(--logocolor);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--addlinkcolor);
-    
+
 }
 .nav_link {
     text-decoration: none;
@@ -104,4 +104,14 @@ color: var(--linkcolor);
 .header_button:hover,.header_button:focus {
     background-color: var(--linkcolor);
     cursor: pointer;
+}
+.third_header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--logocolor);
+    
+    
 }
