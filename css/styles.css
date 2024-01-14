@@ -158,3 +158,35 @@ color: var(--linkcolor);
     color: var(--sectioncolor);
     letter-spacing: 0.02em;
 }
+.portfolio_button{
+    font-family: "Roboto",
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--buttoncolor);
+    background-color: var(--sectioncolor);
+    cursor: pointer;
+}
+.portfolio_button:hover,
+.portfolio_button:focus {
+    color: var(--white);
+    background-color: var(--linkcolor);
+   
+
+}
+.portfolioheader {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--logocolor);
+}
+.portfolioparagraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--addlinkcolor);
+    
+}
